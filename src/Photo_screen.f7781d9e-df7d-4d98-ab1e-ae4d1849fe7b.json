@@ -1,4 +1,5 @@
 {
+    "id": "f7781d9e-df7d-4d98-ab1e-ae4d1849fe7b",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -461,14 +462,14 @@
                 "FontSize": 16,
                 "Font": "",
                 "CustomFont": "",
-                "BackgroundColor": "rgba(255, 114, 92, 1)",
+                "BackgroundColor": "rgba(255, 170, 80, 1)",
                 "Height": 49,
                 "Width": 311,
                 "Visible": true,
                 "X": 32,
-                "Y": 446,
+                "Y": 461,
                 "RelativeX": 32,
-                "RelativeY": 446,
+                "RelativeY": 461,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -499,7 +500,7 @@
                 "Disabled": false,
                 "ParentId": "f7781d9e-df7d-4d98-ab1e-ae4d1849fe7b",
                 "position": "absolute",
-                "edgeOffsets": 446.99999999999994
+                "edgeOffsets": 461.00000000000006
             },
             "children": [],
             "id": "4bfd41bc-ac9e-4ea5-b7dd-d66aa15a6b3a",
@@ -626,7 +627,6 @@
             "name": "Image1"
         }
     ],
-    "id": "f7781d9e-df7d-4d98-ab1e-ae4d1849fe7b",
     "thunkableVersion": 443,
     "name": "Photo_screen"
 }
